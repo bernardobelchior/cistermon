@@ -1,0 +1,12 @@
+[submodule "serial-parser"]
+	path = serial-parser
+	url = git@github.com:bernardobelchior/cister-serial-parser.git
+[submodule "rest-api"]
+	path = rest-api
+	url = git@github.com:bernardobelchior/cister-monitor-rest-api.git
+[submodule "dashboard"]
+	path = dashboard
+	url = git@github.com:bernardobelchior/cister-monitor-dashboard.git
+[submodule "measurements-collector"]
+	path = measurements-collector
+	url = git@github.com:bernardobelchior/cister-collector.git
